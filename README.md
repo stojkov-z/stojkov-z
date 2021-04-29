@@ -1,7 +1,7 @@
 # Welcome, I'm Zoran
 
 I'm [Zoran Stojkov](https://www.zoranstojkov.it), **Software developer** appasionate about **technologies**. Self-critical, always looking for self-improvement.  
-Currently pursuing my bachelor's degree majoring in computer science from The [Univesity of Milano Bicocca](https://www.disco.unimib.it).
+Currently pursuing my bachelor's degree majoring in computer science from The [University of Milano-Bicocca](https://www.disco.unimib.it).
 
 ## 👨🏻‍💻 Languages
 
