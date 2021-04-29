@@ -7,7 +7,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 
 <div align="center" style="transform: scale(1.2);">
 
-[![](https://img.shields.io/badge/-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=blue&color=5d5d5d)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=blue&color=5d5d5d)](https://code.visualstudio.com)
 
 </div>
 
