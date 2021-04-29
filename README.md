@@ -33,11 +33,17 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     <a href="https://angular.io/">
         <img src="https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&labelColor=d6012f&color=5d5d5d" height="25">
     </a>
+    <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=222&labelColor=61DAFB&color=5d5d5d" height="25">
+    </a>
     <a href="https://dotnet.microsoft.com/">
         <img src="https://img.shields.io/badge/-.Net%20Core-informational?style=flat&logo=.net&logoColor=white&labelColor=6a4097&color=5d5d5d" height="25">
     </a>
 <a href="https://laravel.com/">
         <img src="https://img.shields.io/badge/-Laravel-informational?style=flat&logo=laravel&logoColor=f72a1b&labelColor=f7f7f7&color=5d5d5d" height="25">
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=339933&color=5d5d5d" height="25">
     </a>
 
 </div>
