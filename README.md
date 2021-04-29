@@ -2,7 +2,16 @@
 
 I'm [Zoran Stojkov](https://www.zoranstojkov.it), **Software developer** appasionate about **technologies**. Self-critical, always looking for self-improvement.  
 Currently pursuing my bachelor's degree majoring in computer science from The [Univesity of Milano Bicocca](https://www.disco.unimib.it).
-You can find me on:
+
+## 👨🏻‍💻 Languages and Tools <br />
+
+<div align="center" style="transform: scale(1.2);">
+
+[![](https://img.shields.io/badge/-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=blue&color=5d5d5d)](https://code.visualstudio.com/)
+
+</div>
+
+## 📫 Contact Me:
 
 <div align="center" style="transform: scale(1.2);">
 
