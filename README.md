@@ -5,7 +5,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 
 ## 👨🏻‍💻 Languages
 
-<div align="center">
+<div>
 
 <a href="#">
         <img src="https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue" height="25">
@@ -25,7 +25,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 
 ## :wrench: Frameworks and Tools
 
-<div align="center">
+<div>
 
 <a href="https://code.visualstudio.com">
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=blue&color=5d5d5d" height="25">
@@ -64,7 +64,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 
 ## 📫 Contact Me:
 
-<div align="center">
+<div>
 
 <a href="https://linkedin.com/in/zoran-stojkov"> 
     <img src="https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=2867B2" height="25">
