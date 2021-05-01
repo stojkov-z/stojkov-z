@@ -11,7 +11,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
         <img src="https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blue" height="25">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow" height="25">
+        <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E" height="25">
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/-C%20Sharp-informational?style=flat&logo=c%20sharp&logoColor=white&color=95478d" height="25">
@@ -28,7 +28,13 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 <div>
 
 <a href="https://code.visualstudio.com">
-        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=blue&color=5d5d5d" height="25">
+        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=5d5d5d" height="25">
+    </a>
+    <a href="https://azure.microsoft.com">
+        <img src="https://img.shields.io/badge/-Microsoft%20Azure-informational?style=flat&logo=Microsoft%20Azure&logoColor=white&labelColor=0089D6&color=5d5d5d" height="25">
+    </a>
+        <a href="https://cloud.google.com">
+        <img src="https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=4285F4&color=5d5d5d" height="25">
     </a>
     <a href="https://angular.io/">
         <img src="https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&labelColor=d6012f&color=5d5d5d" height="25">
@@ -53,6 +59,9 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     </a>
     <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=339933&color=5d5d5d" height="25">
+    </a>
+     <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&labelColor=FFCA28&color=5d5d5d" height="25">
     </a>
     <a href="https://getbootstrap.com/">
         <img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=5d5d5d" height="25">
