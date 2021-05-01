@@ -54,7 +54,6 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=339933&color=5d5d5d" height="25">
     </a>
-    
     <a href="https://getbootstrap.com/">
         <img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=5d5d5d" height="25">
     </a>
