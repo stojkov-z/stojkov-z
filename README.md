@@ -60,6 +60,9 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=339933&color=5d5d5d" height="25">
     </a>
+     <a href="https://redux.js.org/">
+        <img src="https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=764ABC&color=5d5d5d" height="25">
+    </a>
      <a href="https://firebase.google.com/">
         <img src="https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&labelColor=FFCA28&color=5d5d5d" height="25">
     </a>
