@@ -33,17 +33,17 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     <a href="https://angular.io/">
         <img src="https://img.shields.io/badge/-Angular-informational?style=flat&logo=angular&logoColor=white&labelColor=d6012f&color=5d5d5d" height="25">
     </a>
-    <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=222&labelColor=61DAFB&color=5d5d5d" height="25">
-    </a>
-      <a href="https://www.electronjs.org/">
-        <img src="https://img.shields.io/badge/-Electron-informational?style=flat&logo=electron&logoColor=white&labelColor=47848F&color=5d5d5d" height="25">
-    </a>
     <a href="https://dotnet.microsoft.com/">
         <img src="https://img.shields.io/badge/-.Net%20Core-informational?style=flat&logo=.net&logoColor=white&labelColor=6a4097&color=5d5d5d" height="25">
     </a>
 <a href="https://laravel.com/">
         <img src="https://img.shields.io/badge/-Laravel-informational?style=flat&logo=laravel&logoColor=f72a1b&labelColor=f7f7f7&color=5d5d5d" height="25">
+    </a>
+        <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=222&labelColor=61DAFB&color=5d5d5d" height="25">
+    </a>
+      <a href="https://www.electronjs.org/">
+        <img src="https://img.shields.io/badge/-Electron-informational?style=flat&logo=electron&logoColor=white&labelColor=47848F&color=5d5d5d" height="25">
     </a>
      <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/-MySql-informational?style=flat&logo=mysql&logoColor=white&labelColor=4479A1&color=5d5d5d" height="25">
@@ -54,6 +54,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white&labelColor=339933&color=5d5d5d" height="25">
     </a>
+    
     <a href="https://getbootstrap.com/">
         <img src="https://img.shields.io/badge/-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=5d5d5d" height="25">
     </a>
