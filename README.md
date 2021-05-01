@@ -101,4 +101,5 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stojkov-z)](https://github.com/stojkov-z/stojkov-z)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stojkov-z)](https://github.com/stojkov-z)-->
