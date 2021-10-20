@@ -74,7 +74,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     </a>
 </div>
 
-## 📫 Contact Me:
+## 📫 Contact Me
 
 <div>
 
