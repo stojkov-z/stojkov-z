@@ -94,7 +94,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     <img src="https://img.shields.io/badge/-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=0088cc" height="25">
 </a>
 
-<a href="https://www.zoranstojkov.it"> 
+<a href="https://www.zoran.dev"> 
     <img src="https://img.shields.io/badge/-BLOG-informational?style=flat&logo=hashnode&logoColor=white&color=2962FF" height="25">
 </a>
 
