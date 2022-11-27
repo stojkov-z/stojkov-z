@@ -15,17 +15,15 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
     </a>
     
  
- <a href="#">
+    <a href="#">
         <img src="https://img.shields.io/badge/-python-informational?style=flat&logo=python&logoColor=white&color=3776AB" height="25">
     </a>
-        
-        
         
     <a href="#">
         <img src="https://img.shields.io/badge/-php-informational?style=flat&logo=php&logoColor=white&color=7277ad" height="25">
     </a>
         
-        <a href="#">
+    <a href="#">
         <img src="https://img.shields.io/badge/-C%20Sharp-informational?style=flat&logo=c%20sharp&logoColor=white&color=95478d" height="25">
     </a>
 
