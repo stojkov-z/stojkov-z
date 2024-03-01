@@ -23,6 +23,7 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 [![](https://img.shields.io/badge/-Laravel-informational?style=flat&logo=laravel&logoColor=f72a1b&labelColor=f7f7f7&color=5d5d5d) ](https://laravel.com/)
 [![](https://img.shields.io/badge/-docker-informational?style=flat&logo=docker&logoColor=white&labelColor=2496ED&color=5d5d5d) ](https://www.docker.com/)
 [![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=222&labelColor=61DAFB&color=5d5d5d) ](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=fff&labelColor=000&color=5d5d5d) ](https://nextjs.org/)
 [![](https://img.shields.io/badge/-Electron-informational?style=flat&logo=electron&logoColor=white&labelColor=47848F&color=5d5d5d) ](https://www.electronjs.org/)
 [![](https://img.shields.io/badge/-MySql-informational?style=flat&logo=mysql&logoColor=white&labelColor=4169E1&color=5d5d5d) ](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&labelColor=4479A1&color=5d5d5d) ](https://www.postgresql.org/)
