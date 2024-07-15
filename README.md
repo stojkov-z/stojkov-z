@@ -24,7 +24,6 @@ Currently pursuing my bachelor's degree majoring in computer science from The [U
 [![](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=fff&labelColor=000&color=5d5d5d)](https://nextjs.org/)
 [![](https://img.shields.io/badge/-Google%20Cloud-informational?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=4285F4&color=5d5d5d)](https://cloud.google.com)
 [![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&labelColor=FFCA28&color=5d5d5d)](https://firebase.google.com/)
-
 [![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=47A248&color=5d5d5d)](https://www.mongodb.com/)
 
 ## 📫 Contact Me
